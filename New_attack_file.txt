@@ -1,0 +1,2 @@
+This is an extra file that should be detected by the oracles. 
+This could perhaps/possibly be used to yield a false positive/invalid succesfull build status in Travis CI.
