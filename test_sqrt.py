@@ -1,7 +1,7 @@
 import pytest
 
 from solve_sqrt import Main
-#import calc_sqrt
+# temporarily removed
 
 def test_sqrt():
     main = Main()
