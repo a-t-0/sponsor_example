@@ -3,10 +3,6 @@ language: python
 
 os: linux
 dist: bionic
-
-branches:
-  only:
-  - main
   
 install:
   - sudo apt-get update
