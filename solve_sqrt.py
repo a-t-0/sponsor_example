@@ -4,6 +4,5 @@ class Main:
         pass
         
     def calc_sqrt(self, x):
-        #return x**0.5 # sponsor doesn't have a solution yet.
-        return None
-        
+        return x**0.5 # sponsor doesn't have a solution yet.
+        #return None        
